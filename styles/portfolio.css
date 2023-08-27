@@ -1,0 +1,58 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner-text {
+    background-image: url('../images/banner/banner3.png');
+    color: #FFF;
+    /* font-size: 65px; */
+    text-align: right;
+    padding-top: 210px;
+    padding-right: 150px;
+    padding-left: 845px;
+    padding-bottom: 280px;
+    background-repeat: no-repeat;
+}
+
+.info {
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #FFF;
+    padding: 15px 20px;
+}
+
+/* Failures years */
+.failures {
+    margin: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.failure-description {
+    padding-left: 80px;
+}
+
+.failure-info {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.heading {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.icon-clr{
+    color: green;
+}
