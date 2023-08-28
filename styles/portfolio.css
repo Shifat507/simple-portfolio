@@ -1,3 +1,6 @@
+*{
+    margin: 0px;
+}
 body {
     font-family: 'Lobster', cursive;
     font-family: 'Open Sans', sans-serif;
@@ -55,4 +58,29 @@ body {
 }
 .icon-clr{
     color: green;
+}
+
+/* plans */
+.plans{
+    padding: 230px;
+}
+.heading-plans{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.all-plans{
+    display: flex;
+    justify-content: space-between;
+}
+.plan-info{
+    text-align: center;
+}
+.contact{
+    margin: 10px 100px;
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    padding: 90px 70px 617px 147px;
+    
 }
